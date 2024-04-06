@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "bbguai": "^1.0.0",
+    "ethers": "^5.7.2",
+    "lodash": "^4.17.21",
+    "node-fetch": "^2.7.0"
+  },
+  "name": "seanyu-pc",
+  "description": "Some web3 shel2l",
+  "version": "1.1.12",
+  "main": "index.js",
+  "devDependencies": {
+    "cspell": "^6.31.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yu798842325/seanyu-pc"
+  },
+  "keywords": [],
+  "author": "seanyu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yu798842325/seanyu-pc/issues"
+  },
+  "homepage": "https://github.com/yu798842325/seanyu-pc#readme"
+}
